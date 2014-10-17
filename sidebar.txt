@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xod:home|Door43 (xod)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xod|d43-xod repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xod/archive/master.zip|d43-xod.zip]]
+
+**Recent Changes**
+{{changes>ns = xod}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xod|Ethnologue data]]
+
